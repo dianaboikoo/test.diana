@@ -1,0 +1,274 @@
+{
+  "recipes": {
+    "1": {
+      "ID": "1",
+      "Name": "Classic Ratatouille",
+      "Picture": "https://www.simplyrecipes.com/thmb/mV4NCPaM8SlThF4zVnRdTnJ6sPI=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Ratatouille-LEAD-4b3e4044db344637bd45fc6378e32df2.jpg",
+      "TimeOfCooking": "45 minutes",
+      "Level": "Intermediate",
+      "NumberOfIngredients": 10,
+      "Ingredients": [
+        { "Name": "Red Pepper", "Quantity": "2", "Picture": "https://cdn.pixabay.com/photo/2017/12/10/14/47/red-pepper-3011426_1280.jpg" },
+        { "Name": "Tomato", "Quantity": "2 (medium)", "Picture": "https://cdn.pixabay.com/photo/2015/03/26/09/39/tomatoes-691844_1280.jpg" },
+        { "Name": "Onion", "Quantity": "2 (medium)", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/22/13/onion-1239423_1280.jpg" },
+        { "Name": "Garlic Clove", "Quantity": "4", "Picture": "https://cdn.pixabay.com/photo/2018/05/25/17/33/garlic-3421285_1280.jpg" },
+        { "Name": "Olive Oil", "Quantity": "as needed", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" },
+        { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+        { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" },
+        { "Name": "Rosemary", "Quantity": "1 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/06/18/17/42/herbs-1468364_1280.jpg" },
+        { "Name": "Zucchini", "Quantity": "2 (1 green, 1 yellow)", "Picture": "https://cdn.pixabay.com/photo/2017/03/12/20/57/zucchini-2132625_1280.jpg" },
+        { "Name": "Eggplant", "Quantity": "1", "Picture": "https://cdn.pixabay.com/photo/2016/06/10/23/42/eggplant-1446306_1280.jpg" }
+      ],
+      "Instructions": {
+        "Step1": "Preheat the oven to 375°F (190°C).",
+        "Step2": "Prepare the sauce by blending peppers, tomatoes, onions, and garlic.",
+        "Step3": "Layer vegetables in a circular pattern in a baking dish.",
+        "Step4": "Pour the sauce over the vegetables and season with rosemary, salt, and pepper.",
+        "Step5": "Bake for 40 minutes and serve."
+      },
+      "Nutrition": {
+        "Calories": 250,
+        "Fat": 10,
+        "Carbs": 35,
+        "Sugars": 12,
+        "Protein": 5,
+        "Sodium": 400,
+        "Fiber": 8
+      }
+    },
+    "2": {
+      "ID": "2",
+      "Name": "Spaghetti Carbonara",
+      "Picture": "https://www.simplyrecipes.com/thmb/9wM-Ioa7zz4sIIVG4Qoe9gS6FnI=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Spaghetti-Carbonara-LEAD-7a4fdf40971d41bfa4fd6f2435a0645a.jpg",
+      "TimeOfCooking": "30 minutes",
+      "Level": "Easy",
+      "NumberOfIngredients": 7,
+      "Ingredients": [
+        { "Name": "Spaghetti", "Quantity": "200g", "Picture": "https://cdn.pixabay.com/photo/2014/12/21/23/28/spaghetti-575321_1280.jpg" },
+        { "Name": "Egg", "Quantity": "2", "Picture": "https://cdn.pixabay.com/photo/2014/04/10/11/06/eggs-320421_1280.jpg" },
+        { "Name": "Parmesan Cheese", "Quantity": "50g", "Picture": "https://cdn.pixabay.com/photo/2017/03/17/18/12/cheese-2151624_1280.jpg" },
+        { "Name": "Pancetta", "Quantity": "100g", "Picture": "https://cdn.pixabay.com/photo/2017/03/06/20/51/bacon-2129329_1280.jpg" },
+        { "Name": "Olive Oil", "Quantity": "2 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" },
+        { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+        { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" }
+      ],
+      "Instructions": {
+        "Step1": "Cook spaghetti in salted boiling water until al dente.",
+        "Step2": "Beat eggs and mix with grated Parmesan cheese.",
+        "Step3": "Cook pancetta in olive oil until crispy.",
+        "Step4": "Toss spaghetti with pancetta and remove from heat.",
+        "Step5": "Quickly mix in egg and cheese mixture. Serve immediately."
+      },
+      "Nutrition": {
+        "Calories": 600,
+        "Fat": 25,
+        "Carbs": 70,
+        "Sugars": 5,
+        "Protein": 20,
+        "Sodium": 700,
+        "Fiber": 3
+      }
+    },
+    "3": {
+      "ID": "3",
+      "Name": "Caesar Salad",
+      "Picture": "https://www.simplyrecipes.com/thmb/kFrmtPl-EHIpE-WU7mMyld6WCeE=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Classic-Caesar-Salad-LEAD-6dc7d2268c184949bd20f16ea55a7c89.jpg",
+      "TimeOfCooking": "20 minutes",
+      "Level": "Easy",
+      "NumberOfIngredients": 8,
+      "Ingredients": [
+        { "Name": "Romaine Lettuce", "Quantity": "1 head", "Picture": "https://cdn.pixabay.com/photo/2016/02/17/15/19/lettuce-1205197_1280.jpg" },
+        { "Name": "Croutons", "Quantity": "1 cup", "Picture": "https://cdn.pixabay.com/photo/2017/06/21/19/24/croutons-2429636_1280.jpg" },
+        { "Name": "Parmesan Cheese", "Quantity": "50g", "Picture": "https://cdn.pixabay.com/photo/2017/03/17/18/12/cheese-2151624_1280.jpg" },
+        { "Name": "Caesar Dressing", "Quantity": "1/4 cup", "Picture": "https://cdn.pixabay.com/photo/2020/02/11/09/18/dressing-4838524_1280.jpg" },
+        { "Name": "Chicken Breast", "Quantity": "200g", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/chicken-1239198_1280.jpg" },
+        { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+        { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" },
+        { "Name": "Olive Oil", "Quantity": "1 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" }
+      ],
+      "Instructions": {
+        "Step1": "Grill chicken breast until cooked through and slice.",
+        "Step2": "Toss lettuce with Caesar dressing.",
+        "Step3": "Top with grilled chicken, croutons, and Parmesan cheese.",
+        "Step4": "Season with salt and pepper. Serve immediately."
+      },
+      "Nutrition": {
+        "Calories": 450,
+        "Fat": 20,
+        "Carbs": 20,
+        "Sugars": 2,
+        "Protein": 35,
+        "Sodium": 800,
+        "Fiber": 5
+      }
+    },
+    "4": {
+      "ID": "4",
+      "Name": "Chicken Alfredo Pasta",
+      "Picture": "https://www.simplyrecipes.com/thmb/30y64kOmQd3fEYNJ5hoT32A7_HA=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Chicken-Alfredo-LEAD-14d4e982a0c74ea897edec74071ed646.jpg",
+      "TimeOfCooking": "35 minutes",
+      "Level": "Intermediate",
+      "NumberOfIngredients": 10,
+      "Ingredients": [
+        { "Name": "Fettuccine", "Quantity": "200g", "Picture": "https://cdn.pixabay.com/photo/2016/06/09/17/49/fettuccine-1441022_1280.jpg" },
+        { "Name": "Chicken Breast", "Quantity": "200g", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/chicken-1239198_1280.jpg" },
+        { "Name": "Butter", "Quantity": "50g", "Picture": "https://cdn.pixabay.com/photo/2018/07/28/10/55/butter-3564658_1280.jpg" },
+        { "Name": "Heavy Cream", "Quantity": "1 cup", "Picture": "https://cdn.pixabay.com/photo/2014/11/25/21/23/milk-545794_1280.jpg" },
+        { "Name": "Parmesan Cheese", "Quantity": "100g", "Picture": "https://cdn.pixabay.com/photo/2017/03/17/18/12/cheese-2151624_1280.jpg" },
+        { "Name": "Garlic Clove", "Quantity": "3", "Picture": "https://cdn.pixabay.com/photo/2018/05/25/17/33/garlic-3421285_1280.jpg" },
+        { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+        { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" },
+        { "Name": "Parsley", "Quantity": "for garnish", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/20/07/parsley-1239339_1280.jpg" },
+        { "Name": "Olive Oil", "Quantity": "1 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" }
+      ],
+      "Instructions": {
+        "Step1": "Cook fettuccine in salted boiling water until al dente.",
+        "Step2": "Cook chicken breast in olive oil until golden and fully cooked. Slice into strips.",
+        "Step3": "In a pan, melt butter and sauté garlic until fragrant.",
+        "Step4": "Add heavy cream and Parmesan cheese, stirring until smooth.",
+        "Step5": "Combine pasta, chicken, and sauce. Garnish with parsley and serve."
+      },
+      "Nutrition": {
+        "Calories": 800,
+        "Fat": 40,
+        "Carbs": 70,
+        "Sugars": 5,
+        "Protein": 35,
+        "Sodium": 800,
+        "Fiber": 3
+      }
+    },
+    "5": {
+    "ID": "5",
+    "Name": "Beef Tacos",
+    "Picture": "https://www.simplyrecipes.com/thmb/EtByRQl03Hh7AzzshZZURUS4rhc=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Beef-Tacos-LEAD-8cc7fba42d5e4067b69d522c380d11a2.jpg",
+    "TimeOfCooking": "25 minutes",
+    "Level": "Easy",
+    "NumberOfIngredients": 9,
+    "Ingredients": [
+      { "Name": "Ground Beef", "Quantity": "500g", "Picture": "https://cdn.pixabay.com/photo/2014/10/19/20/59/meat-494429_1280.jpg" },
+      { "Name": "Taco Seasoning", "Quantity": "1 packet", "Picture": "https://cdn.pixabay.com/photo/2016/08/02/20/56/spices-1564381_1280.jpg" },
+      { "Name": "Tortillas", "Quantity": "8", "Picture": "https://cdn.pixabay.com/photo/2017/02/08/01/46/tortilla-2045420_1280.jpg" },
+      { "Name": "Cheddar Cheese", "Quantity": "100g", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/20/11/cheese-1239425_1280.jpg" },
+      { "Name": "Lettuce", "Quantity": "1 head (shredded)", "Picture": "https://cdn.pixabay.com/photo/2016/02/17/15/19/lettuce-1205197_1280.jpg" },
+      { "Name": "Tomato", "Quantity": "2 (diced)", "Picture": "https://cdn.pixabay.com/photo/2015/03/26/09/39/tomatoes-691844_1280.jpg" },
+      { "Name": "Sour Cream", "Quantity": "1/2 cup", "Picture": "https://cdn.pixabay.com/photo/2016/11/19/12/51/sour-cream-1834460_1280.jpg" },
+      { "Name": "Avocado", "Quantity": "1 (sliced)", "Picture": "https://cdn.pixabay.com/photo/2017/09/04/18/39/avocado-2714705_1280.jpg" },
+      { "Name": "Salt & Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" }
+    ],
+    "Instructions": {
+      "Step1": "Cook ground beef in a skillet until browned, then add taco seasoning and a splash of water.",
+      "Step2": "Warm tortillas in a dry skillet or microwave.",
+      "Step3": "Assemble tacos with beef, cheese, lettuce, tomato, sour cream, and avocado.",
+      "Step4": "Serve immediately."
+    },
+    "Nutrition": {
+      "Calories": 300,
+      "Fat": 18,
+      "Carbs": 20,
+      "Sugars": 2,
+      "Protein": 15,
+      "Sodium": 600,
+      "Fiber": 4
+    }
+  },
+  "6": {
+    "ID": "6",
+    "Name": "Chicken Stir Fry",
+    "Picture": "https://www.simplyrecipes.com/thmb/h_zKcxHEBM3NfPI9TUpEATsK5gc=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Chicken-Stir-Fry-LEAD-16f7fbd27db548cd8f04ed121d330fbf.jpg",
+    "TimeOfCooking": "20 minutes",
+    "Level": "Easy",
+    "NumberOfIngredients": 8,
+    "Ingredients": [
+      { "Name": "Chicken Breast", "Quantity": "300g", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/chicken-1239198_1280.jpg" },
+      { "Name": "Bell Peppers", "Quantity": "2 (sliced)", "Picture": "https://cdn.pixabay.com/photo/2017/12/10/14/47/red-pepper-3011426_1280.jpg" },
+      { "Name": "Broccoli", "Quantity": "1 cup (chopped)", "Picture": "https://cdn.pixabay.com/photo/2018/04/17/23/10/broccoli-3338308_1280.jpg" },
+      { "Name": "Soy Sauce", "Quantity": "3 tbsp", "Picture": "https://cdn.pixabay.com/photo/2017/02/27/20/29/soy-sauce-2100662_1280.jpg" },
+      { "Name": "Garlic", "Quantity": "3 cloves (minced)", "Picture": "https://cdn.pixabay.com/photo/2018/05/25/17/33/garlic-3421285_1280.jpg" },
+      { "Name": "Ginger", "Quantity": "1 tbsp (minced)", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/01/ginger-1238252_1280.jpg" },
+      { "Name": "Olive Oil", "Quantity": "2 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" },
+      { "Name": "Carrots", "Quantity": "1 (sliced)", "Picture": "https://cdn.pixabay.com/photo/2017/01/11/11/33/carrot-1976100_1280.jpg" }
+    ],
+    "Instructions": {
+      "Step1": "Heat olive oil in a wok and cook chicken until golden brown.",
+      "Step2": "Remove chicken and stir-fry vegetables in the same wok for 5 minutes.",
+      "Step3": "Mix soy sauce, garlic, and ginger, then pour over the vegetables.",
+      "Step4": "Return chicken to the wok, stir well, and serve hot."
+    },
+    "Nutrition": {
+      "Calories": 250,
+      "Fat": 10,
+      "Carbs": 20,
+      "Sugars": 5,
+      "Protein": 20,
+      "Sodium": 750,
+      "Fiber": 4
+    }
+  },
+  "7": {
+    "ID": "7",
+    "Name": "Vegetable Soup",
+    "Picture": "https://www.simplyrecipes.com/thmb/VlhzR6uIvXHzrLl59bUg8kRnsIU=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Vegetable-Soup-LEAD-20f2f0b4dbb44cf0a5711de9e20b0e14.jpg",
+    "TimeOfCooking": "40 minutes",
+    "Level": "Easy",
+    "NumberOfIngredients": 9,
+    "Ingredients": [
+      { "Name": "Carrots", "Quantity": "3 (sliced)", "Picture": "https://cdn.pixabay.com/photo/2017/01/11/11/33/carrot-1976100_1280.jpg" },
+      { "Name": "Celery", "Quantity": "2 stalks (sliced)", "Picture": "https://cdn.pixabay.com/photo/2017/03/27/15/24/celery-2174258_1280.jpg" },
+      { "Name": "Potatoes", "Quantity": "2 (diced)", "Picture": "https://cdn.pixabay.com/photo/2017/09/07/08/56/potatoes-2721447_1280.jpg" },
+      { "Name": "Tomato Paste", "Quantity": "2 tbsp", "Picture": "https://cdn.pixabay.com/photo/2018/04/27/03/18/tomato-paste-3355471_1280.jpg" },
+      { "Name": "Vegetable Broth", "Quantity": "4 cups", "Picture": "https://cdn.pixabay.com/photo/2016/03/22/05/12/soup-1277086_1280.jpg" },
+      { "Name": "Garlic", "Quantity": "2 cloves (minced)", "Picture": "https://cdn.pixabay.com/photo/2018/05/25/17/33/garlic-3421285_1280.jpg" },
+      { "Name": "Olive Oil", "Quantity": "2 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" },
+      { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+      { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" }
+    ],
+    "Instructions": {
+      "Step1": "Heat olive oil in a large pot and sauté carrots, celery, and garlic for 5 minutes.",
+      "Step2": "Add potatoes, tomato paste, and vegetable broth. Bring to a boil.",
+      "Step3": "Simmer for 30 minutes until vegetables are tender.",
+      "Step4": "Season with salt and pepper. Serve hot."
+    },
+    "Nutrition": {
+      "Calories": 150,
+      "Fat": 5,
+      "Carbs": 25,
+      "Sugars": 6,
+      "Protein": 5,
+      "Sodium": 400,
+      "Fiber": 4
+    }
+  },
+  "8": {
+    "ID": "8",
+    "Name": "Grilled Salmon",
+    "Picture": "https://www.simplyrecipes.com/thmb/9MeaORcby9b9sYvYlP9QPCyRHR8=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Grilled-Salmon-LEAD-7cf9d1c5a40a420c8b2ad7d7a8c1ad98.jpg",
+    "TimeOfCooking": "25 minutes",
+    "Level": "Intermediate",
+    "NumberOfIngredients": 7,
+    "Ingredients": [
+      { "Name": "Salmon Fillets", "Quantity": "4", "Picture": "https://cdn.pixabay.com/photo/2017/08/06/12/58/salmon-2599771_1280.jpg" },
+      { "Name": "Lemon", "Quantity": "1 (sliced)", "Picture": "https://cdn.pixabay.com/photo/2016/01/17/17/47/lemon-1148499_1280.jpg" },
+      { "Name": "Olive Oil", "Quantity": "2 tbsp", "Picture": "https://cdn.pixabay.com/photo/2016/03/05/19/02/olive-oil-1238245_1280.jpg" },
+      { "Name": "Garlic", "Quantity": "2 cloves (minced)", "Picture": "https://cdn.pixabay.com/photo/2018/05/25/17/33/garlic-3421285_1280.jpg" },
+      { "Name": "Rosemary", "Quantity": "1 tsp", "Picture": "https://cdn.pixabay.com/photo/2016/06/18/17/42/herbs-1468364_1280.jpg" },
+      { "Name": "Salt", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2016/03/31/21/15/salt-1299520_1280.jpg" },
+      { "Name": "Pepper", "Quantity": "to taste", "Picture": "https://cdn.pixabay.com/photo/2014/04/11/19/24/pepper-321213_1280.jpg" }
+    ],
+    "Instructions": {
+      "Step1": "Preheat grill to medium heat and brush salmon fillets with olive oil.",
+      "Step2": "Season salmon with garlic, rosemary, salt, and pepper.",
+      "Step3": "Grill salmon skin-side down for 10 minutes, then flip and cook for another 5 minutes.",
+      "Step4": "Serve with lemon slices on top."
+    },
+    "Nutrition": {
+      "Calories": 350,
+      "Fat": 20,
+      "Carbs": 3,
+      "Sugars": 1,
+      "Protein": 35,
+      "Sodium": 300,
+      "Fiber": 0
+    }
+  }
+}
